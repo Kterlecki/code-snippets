@@ -1,1 +1,1 @@
-# javascript-course
+# code-snippets
